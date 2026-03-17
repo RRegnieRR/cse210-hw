@@ -24,7 +24,7 @@ class Program
             choice = Console.ReadLine();
 
             Console.WriteLine();
-
+            
             if (choice == "1")
             {
                 string prompt = promptGenerator.GetRandomPrompt();
