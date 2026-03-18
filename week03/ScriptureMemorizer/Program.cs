@@ -11,3 +11,5 @@ class Program
         Console.WriteLine(scripture.GetDisplayText());
     }
 }
+
+//Code by Luis Regnier 🧑‍💻
