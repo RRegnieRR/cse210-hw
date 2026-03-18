@@ -5,12 +5,12 @@ public class Scripture
 
     public Scripture(Reference reference, string text)
     {
-       //to be implemented
+       _reference = reference;
     }
 
     public void HideRandomWords(int numberToHide)
     {
-        //to be implemented
+        
     }
     public string GetDisplayText()
     {
