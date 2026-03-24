@@ -35,9 +35,7 @@ class Program
 
             if (difficulty == "1")
             {
-                return new Scripture(
-                    new Reference("John", 11, 35),
-                    "Jesus wept.");
+                return new Scripture(new Reference("John", 11, 35),"Jesus wept.");
             }
 
             if (difficulty == "2")
